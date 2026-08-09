@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(73, 28, 91);
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+}
+h1{
+    color: palegreen;
+
+}
+h2{
+    color: aqua;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
